@@ -11,4 +11,4 @@ python controller.py --model resnet18 --dataset cifar10 --epoch 10
 
 I want the following table
 Master | Master_target | Slave| Slave_target | Pass_through | Pr1 | pr2 | pr3 | ....
-
+Please , please look into this.. 
