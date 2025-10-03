@@ -4,6 +4,9 @@ MOBILENET FAMILY:  mobilenet_v3_small, mobilenet_v3_large
 DENSENET FAMILY:   densenet121 , densenet161 , densenet169 , densenet201 , 
 #GOOGLENET FAMILY: googlenet
 RESNEXT FAMILY :   resnext50_32x4d , resnext101_32x8d 
+For test : TinyNet, TinyResnet
 
+How to Run: 
+python controller.py --model resnet18 --dataset cifar10 --epoch 10
 
 
